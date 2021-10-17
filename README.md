@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AchmadThoriq
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python for data science
-- 📫 How to reach me @achmadthoriqamn@gmail.com
+- 📫 How to reach me you can contact me to my email achmadthoriqamn@gmail.com
 
 <!---
 AchmadThoriq/AchmadThoriq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
